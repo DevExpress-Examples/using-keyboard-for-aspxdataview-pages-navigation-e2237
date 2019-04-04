@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [JScript.js](./CS/WebSite/JScript.js) (VB: [JScript.js](./VB/WebSite/JScript.js))
 <!-- default file list end -->
 # Using keyboard for ASPxDataView pages navigation
