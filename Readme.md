@@ -6,6 +6,9 @@
 * [JScript.js](./CS/WebSite/JScript.js) (VB: [JScript.js](./VB/WebSite/JScript.js))
 <!-- default file list end -->
 # Using keyboard for ASPxDataView pages navigation
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2237/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to process a document keydown event and how to activate some ASPxDataView page according to the key that has been pressed.</p><p>The following keys are processed in this example:<br />
